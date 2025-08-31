@@ -288,6 +288,7 @@ main {
   gap: .5rem;
 }
 
+/*
 .technologies__item {
   display: flex;
   flex-direction: row;
@@ -299,6 +300,7 @@ main {
   border: 1px solid var(--secondary-border-color);
   border-radius: 50rem;
 }
+*/
 
 .technologies__logo {
   height: 2.4rem;
